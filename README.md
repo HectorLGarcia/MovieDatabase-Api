@@ -1,5 +1,7 @@
 # MovieDatabase CurdApp 
 
+This application allows you to search any show or movie. 
+
 1. Git clone https://github.com/HectorLGarcia/MovieDatabase-Api.git
 
 2. rm -rf .git to delete my metadata from the git.
